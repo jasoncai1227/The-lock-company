@@ -1,6 +1,6 @@
 # The-lock-company
 
-please use raw mode to read
+## please use raw mode to read
 
 a program that will create, update, query and delete storage lockers. Each locker is represented as a process in the system which is created by your management process. Signals can be sent to the locker process to change the state of the locker outside of the management process.
 
